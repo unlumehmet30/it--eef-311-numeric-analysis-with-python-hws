@@ -1,0 +1,6 @@
+The solution of the system by Gauss Elimination:
+x1=0.7778
+x2=-0.1111
+The solution of the system by Jacobi Method:
+x1=0.7778
+x2=-0.1111
